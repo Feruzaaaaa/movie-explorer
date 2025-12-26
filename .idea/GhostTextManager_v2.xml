@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GhostTextManager">
+    <option name="inputs">
+      <map>
+        <entry key="https://693837b34618a71d77cf68c6.mockapi.io/api/v1/:endpoint ссылка должна быть такая ?">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1765301224053" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="ошибка так и стоит в файлах они никуда не изчезла там где pages, componets, utils ошибка остается">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1765301507841" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="почему на сайте огромные картинки фильмов даже юез названий дизайн вообще ужасный мне нужно чтобы ты сделал так : &#10;&#10;Fix the Movie Explorer app design with these specific changes:&#10;&#10;1. MOVIE GRID LAYOUT:&#10;   - Make movie posters smaller (reduce height to about 250-300px)&#10;   - Arrange movies in a horizontal grid: 4 movies per row&#10;   - Each movie card should have: poster image on top, movie title below in white text&#10;   - Use CSS Grid: grid-template-columns: repeat(4, 1fr)&#10;   - Add gap between cards: gap: 20px&#10;&#10;2. PAGE TITLE:&#10;   - Center the &quot;Popular Movies&quot; heading text&#10;   - Use text-align: center for the heading&#10;&#10;3. MOVIE DETAIL PAGE:&#10;   - Remove the full-width backdrop background image&#10;   - Show the movie poster as a regular image (not as background), positioned at the top&#10;   - Remove the duplicate small poster that creates &quot;image inside image&quot; effect&#10;   - Structure: Large poster image at top, then black background starts where the text/overview begins&#10;   - The black background should only appear below the main poster image, not behind it&#10;&#10;4. KEEP:&#10;   - Black background color&#10;   - White text for movie titles&#10;   - Current genre filter buttons&#10;   - Navigation menu&#10;&#10;Focus on clean, simple layout - grid of 4 movies per row with titles underneath, and fix the detail page to show one poster image with black background appearing only below it.">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1765304058490" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="почему то когда нажимаю на фильм не грузит, исправь файлы">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1765304587274" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="пройдись по всем файлам и найди ошибку в чем проблема &#10;&#10;я уже сделала это: mockapi.io (онлайн)**&#10;1. Зарегистрируйся на https://mockapi.io/&#10;2. Создай проект &quot;movie-explorer&quot;&#10;3. Создай endpoint `/favorites` с полями:&#10;   - id (auto)&#10;   - movieId (number)&#10;   - title (string)&#10;   - poster (string)&#10;   - note (string)&#10;   - createdAt (date)">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1765300833558" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="удали олд файлы которые не сипользуется">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1765304774368" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="я слуйчайно отклонила твои изменения поменяй еще раз пожалуйста">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1765301391988" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
