@@ -6,7 +6,7 @@ A modern, responsive web application for discovering, searching, and managing yo
 
 ## 🌟 Live Demo
 
-**[View Live Application →](https://your-deployed-app-link.vercel.app)**
+**[View Live Application →](https://movie-explorer-eight-roan.vercel.app)**
 
 ---
 
@@ -323,15 +323,19 @@ movie-explorer/
 ## 📸 Screenshots
 
 ### Home Page - Popular Movies
+![img_1.png](img_1.png)
 ![Home Page](https://via.placeholder.com/800x450/141414/e50914?text=Home+Page)
 
 ### Movie Details Page
+![img_2.png](img_2.png)
 ![Movie Details](https://via.placeholder.com/800x450/141414/e50914?text=Movie+Details)
 
 ### Search Page
+![img.png](img.png)
 ![Search Page](https://via.placeholder.com/800x450/141414/e50914?text=Search+Page)
 
 ### Favorites Page
+
 ![Favorites Page](https://via.placeholder.com/800x450/141414/e50914?text=Favorites)
 
 ---
